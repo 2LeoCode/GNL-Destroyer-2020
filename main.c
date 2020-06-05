@@ -1,7 +1,7 @@
 #include <test.h>
 #include "get_next_line.h"
 
-int		main()
+int		main(void)
 {
 	test_basic();
 	test_basic_empty_lines();
