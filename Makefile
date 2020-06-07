@@ -1,5 +1,5 @@
 #Enter your GNL path here
-PATH_GNL	= ..
+PATH_GNL	= ../get_next_line-v2
 
 NAME		= tester
 SRCDIR		= src

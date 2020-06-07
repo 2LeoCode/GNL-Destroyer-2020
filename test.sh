@@ -15,4 +15,4 @@ printf '\x1B[37m\nBUF SIZE 1000:'
 ./test_buf1000
 printf '\x1B[37m\nBUF SIZE 9999:'
 ./test_buf9999
-echo '\x1B[37m\nTEST OVER'
+echo '\x1B[37m\nTEST OVER\nCheck diffs in \033[1;32moutput \x1B[37mfolder'
